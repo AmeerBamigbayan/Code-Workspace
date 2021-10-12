@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ameer Bamigbayan][website] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ameer_105&label=Profile%20views&color=0e75b6&style=flat" alt="Ameer_105" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmeerBamigbayan&label=Profile%20views&color=0e75b6&style=flat" alt="AmeerBamigbayan" /> </p>
 
 
 ## I'm a Front-End Developer, UI Designer, and a Graphic Designer.
